@@ -142,6 +142,13 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\data folderlocation.png" />
+    <Content Include="Images\donwload mongodb.png" />
+    <Content Include="Images\install mongodb.png" />
+    <Content Include="Images\installationlocation.png" />
+    <Content Include="Images\output.png" />
+    <Content Include="Images\run mongodb.png" />
+    <Content Include="Images\solution.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
